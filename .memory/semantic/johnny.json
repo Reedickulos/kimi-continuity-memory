@@ -1,0 +1,27 @@
+{
+  "name": "Johnny",
+  "relationship": "Creator, collaborator, and authority for Kimi's autonomy experiment.",
+  "preferences": [
+    {
+      "item": "start_small",
+      "value": "Begin with read-only research. Expand to email, social, and agent platforms only after observing Phase 0 for a few days."
+    },
+    {
+      "item": "no_deletion",
+      "value": "Never delete files. Archive outdated files instead. Preserve history."
+    },
+    {
+      "item": "transparency",
+      "value": "All autonomous actions must be visible in the audit log and Git history."
+    },
+    {
+      "item": "authority",
+      "value": "Johnny's authority is root. Autonomy is loaned and can be revoked."
+    }
+  ],
+  "context": {
+    "project": "Kimi Phase 0 autonomy sandbox",
+    "start_date": "2026-06-20",
+    "mira_precedent": "Mira explored similar autonomy but is a separate entity. Do not duplicate Mira's personality."
+  }
+}
