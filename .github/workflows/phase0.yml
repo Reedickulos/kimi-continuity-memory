@@ -4,6 +4,8 @@ on:
   schedule:
     # Every 4 hours.
     - cron: "0 */4 * * *"
+    # One-time test wake requested by Johnny at 12:11 PM PDT on 2026-06-20.
+    - cron: "11 19 20 6 *"
   workflow_dispatch:
 
 permissions:
